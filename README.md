@@ -22,6 +22,7 @@ Implementation Approach: Development is based on the B/S model, providing users 
 2.3 Main Function Modules
 
 The main modules of this system include the preprocessing module, the request processing module, and the web module. The relationships between the modules are shown in the diagram below:
+
 ![module](https://github.com/RongYangRosie/SearchEngine-for-College-Rules/assets/112712992/eeea1b8f-3cb5-49be-a176-b6e1c7b5cba4)
 
 
